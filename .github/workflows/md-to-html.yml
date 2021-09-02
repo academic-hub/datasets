@@ -19,4 +19,4 @@ jobs:
         pip install grip 
     - name: Generate html from markdown
       run: |
-        grip --export datasets.md 
+        cd website && grip --export datasets.md 
