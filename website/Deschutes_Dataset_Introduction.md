@@ -87,7 +87,7 @@
 
                 -   Please note – every invitation expires after 21 days!
 
-                    ![](media/ef6ae0018ae6bf116dfd2bc43e4eba3e.png)
+                    ![](https://academichub.blob.core.windows.net/hub/media/ef6ae0018ae6bf116dfd2bc43e4eba3e.png)
 
     2. **NOTE: the Quick Start notebook below requires an active Academic Hub account to connect to OCS.** But even before your account is active, it's a good way to test that your Anaconda Jupyter installation works OK and to install some required libraries needed by all Hub notebooks. 
 
@@ -96,7 +96,7 @@
         Version](https://academichub.blob.core.windows.net/hub/Hub_Library_Quickstart.ipynb) to save a copy of this notebook on your laptop. 
 
     3.  Open up the Jupyter Notebook application in your browser by launching Anaconda Navigator installed in your laptop Start Menu for PCs (Application for Macs) and then clicking "Launch": 
-    ![](media/anaconda-jupyter-launch.png)
+    ![](https://academichub.blob.core.windows.net/hub/media/anaconda-jupyter-launch.png)
 
     4.  In the newly opened browser tab at <http://localhost:8888/tree>, click on the "Downloads" folder (or wherever your default Downloads are stored)
 
@@ -114,5 +114,5 @@
 
 ---
 
-![](media/2bfcb8ceb5893abdbb0a691cf21b0cd3.png)
+![](https://academichub.blob.core.windows.net/hub/media/2bfcb8ceb5893abdbb0a691cf21b0cd3.png)
 
