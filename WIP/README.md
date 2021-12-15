@@ -1,9 +1,5 @@
-## CSV Download Data Portal
+## Wind Farm notebook on Binder
 
-Simple application for student to download CSV for the [datasets of the Academic Hub](https://academic.osisoft.com/datasets)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/academic-hub/datasets/blob/master/WIP/Wind_Farm_Academic_Hub.ipynb/HEAD)
 
-![](https://github.com/academic-hub/datasets/blob/master/WIP/screenshot1.png)
 
-## To see it in action
-
-Click https://academichub.blob.core.windows.net/hub/champlain/streamlit-hub_portal-2021-05-25-20-05-16.webm
