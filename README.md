@@ -1,5 +1,8 @@
 # Academic Hub Datasets
 
+| :exclamation: The content of this repository is obsolete. Please consult the dataset-specific repositories for up-to-date content |
+|-----------------------------------------|
+
 ## Sample Wind Farm notebook
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/academic-hub/datasets/master?labpath=WIP%2FWind_Farm_Academic_DataHub.ipynb)
